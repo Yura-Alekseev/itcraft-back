@@ -1,0 +1,10 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "Yura1234",
+        "database": "itcraft-test"
+    },
+    "secret": "d2c16afc-a64b-4294-b420-23ccc1646a1d"
+}
